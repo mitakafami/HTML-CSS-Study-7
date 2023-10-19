@@ -1,10 +1,11 @@
+                                                                     /* CONTAINER */
 .container {
     max-width: 1440px;
     width: 100%;
     margin: auto;
     padding-top: 126px;
 }
-
+                                                                     /* HEADER */
 .top_header {
     max-width: inherit;
     width: inherit;
@@ -43,7 +44,7 @@
     font-weight: 400;
     line-height: 32px;
 }
-
+                                                                     /* SECTION ONE */
 .section_one {
     height: 640px;
     position: relative;
@@ -105,7 +106,7 @@
     0 0 20px rgb(103, 216, 103),
     0 0 40px rgb(103, 216, 103);
 }
-
+                                                                     /* SECTION TWO */
 .food {
     display: flex;
     column-gap: 40px;
@@ -144,7 +145,7 @@
     font-weight: 700;
     line-height: 24px;
 }
-
+                                                                     /* ARTICLE */
 .article_title {
     text-align: center;
     color: #372D23;
@@ -204,7 +205,7 @@
     0 0 20px rgb(222, 62, 75),
     0 0 40px rgb(222, 62, 75);
 }
-
+                                                                     /* FOOTER */
 footer {
     background-color: #372D23;
     display: flex;
