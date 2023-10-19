@@ -97,6 +97,15 @@
     0 0 20px rgb(103, 216, 103);
 }
 
+.button_one:active {
+    cursor: pointer;
+    box-shadow: 0 0 5px rgb(103, 216, 103),
+    0 0 10px rgb(103, 216, 103),
+    0 0 15px rgb(103, 216, 103),
+    0 0 20px rgb(103, 216, 103),
+    0 0 40px rgb(103, 216, 103);
+}
+
 .food {
     display: flex;
     column-gap: 40px;
@@ -185,6 +194,15 @@
     0 0 10px rgb(222, 62, 75),
     0 0 15px rgb(222, 62, 75),
     0 0 20px rgb(222, 62, 75);
+}
+
+.article_button:active {
+    cursor: pointer;
+    box-shadow: 0 0 5px rgb(222, 62, 75),
+    0 0 10px rgb(222, 62, 75),
+    0 0 15px rgb(222, 62, 75),
+    0 0 20px rgb(222, 62, 75),
+    0 0 40px rgb(222, 62, 75);
 }
 
 footer {
